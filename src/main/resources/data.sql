@@ -1,3 +1,3 @@
-INSERT INTO article (title, content) VALUES ('title 1', 'content')
-INSERT INTO article (title, content) VALUES ('title 2', 'content')
-INSERT INTO article (title, content) VALUES ('title 3', 'content')
+INSERT INTO article (title, content, created_at, updated_at) VALUES ('PlayList', 'content', NOW(), NOW())
+INSERT INTO article (title, content, created_at, updated_at) VALUES ('Morning', 'content', NOW(), NOW())
+INSERT INTO article (title, content, created_at, updated_at) VALUES ('Up', 'content', NOW(), NOW())
