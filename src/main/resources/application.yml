@@ -12,3 +12,6 @@ spring:
   h2:
     console:
       enabled: true
+jwt:
+  issuer: 39philocsera@gmail.com
+  secret_key: stargazer
